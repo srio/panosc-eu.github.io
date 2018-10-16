@@ -36,3 +36,7 @@ For general inquiries about PaNOSC please submit an [issue to the panosc support
 * Organization page: [https://www.github.com/panosc-eu](https://www.github.com/panosc-eu)
 * Management: [https://www.github.com/panosc-eu/panosc](https://www.github.com/panosc-eu/panosc)
 * Help & Support [https://www.github.com/panosc-eu/support](https://www.github.com/panosc-eu/support)
+
+## Jobs
+* Python Software Engineer: [http://esrf.profilsearch.com/recrute/fo_annonce_voir.php?id=638](http://esrf.profilsearch.com/recrute/fo_annonce_voir.php?id=638)
+
